@@ -59,11 +59,11 @@ a {
 
 @-webkit-keyframes bounce {
 
-   from {
-     -webkit-transform: translateY(0);
-   }
+  from {
+    -webkit-transform: translateY(0);
+  }
 
-   to {
-     -webkit-transform: translateY(-.3em);
-   }
+  to {
+    -webkit-transform: translateY(-.3em);
+  }
 }
